@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-**politjade/politjade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Polit Jade</h1>
+<h3 align="center">I'm ...</h3>
 
 Here are some ideas to get you started:
 
